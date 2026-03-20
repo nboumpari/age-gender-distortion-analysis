@@ -29,7 +29,7 @@ The focal point of this replication is the paper's **pre-registered human experi
 | Dataset | Description |
 |---|---|
 | `GPT2-large-dimensions.csv` | Word embedding association scores (age & gender) for social categories derived from GPT-2 Large |
-| `experiment_control.csv` | Control group responses — participants estimated occupational ages without prior image exposure |
+| `experiment_control.csv` | Control group responses - participants estimated occupational ages without prior image exposure |
 | `experiment_treatment.csv` | Treatment group responses - participants searched Google Images for an occupation photo before estimating age |
 
 Data is fetched directly from Google Drive via public URLs in the notebook.
