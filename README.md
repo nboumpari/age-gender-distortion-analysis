@@ -116,7 +116,7 @@ pip install numpy pandas matplotlib seaborn altair plotnine pingouin scipy stats
 ## Notebook Structure
 
 ```
-Assignment2_f2822508.ipynb
+age-gender-distortion.ipynb
 │
 ├── Environment Setup
 ├── Section 1: Correlation Between Age and Gender
